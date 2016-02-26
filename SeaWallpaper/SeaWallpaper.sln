@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaWallpaper", "SeaWallpaper\SeaWallpaper.csproj", "{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduledTaskAgent1", "ScheduledTaskAgent1\ScheduledTaskAgent1.csproj", "{17620758-E5C0-412F-A37E-76FCBCAC70DF}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cuoilennaocacban.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SeaWallpaper\\SeaWallpaper.csproj
+		SccProjectName1 = SeaWallpaper
+		SccLocalPath1 = SeaWallpaper
+		SccProjectUniqueName2 = ScheduledTaskAgent1\\ScheduledTaskAgent1.csproj
+		SccProjectName2 = ScheduledTaskAgent1
+		SccLocalPath2 = ScheduledTaskAgent1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|ARM.Build.0 = Debug|ARM
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|x86.ActiveCfg = Debug|x86
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|x86.Build.0 = Debug|x86
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Debug|x86.Deploy.0 = Debug|x86
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|ARM.ActiveCfg = Release|ARM
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|ARM.Build.0 = Release|ARM
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|ARM.Deploy.0 = Release|ARM
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|x86.ActiveCfg = Release|x86
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|x86.Build.0 = Release|x86
+		{F9EC1CC4-36FB-46E3-AAEF-6B85738122D0}.Release|x86.Deploy.0 = Release|x86
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Debug|ARM.ActiveCfg = Debug|ARM
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Debug|ARM.Build.0 = Debug|ARM
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Debug|x86.ActiveCfg = Debug|x86
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Debug|x86.Build.0 = Debug|x86
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Release|ARM.ActiveCfg = Release|ARM
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Release|ARM.Build.0 = Release|ARM
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Release|x86.ActiveCfg = Release|x86
+		{17620758-E5C0-412F-A37E-76FCBCAC70DF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
